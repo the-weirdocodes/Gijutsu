@@ -1,3 +1,3 @@
 # Gijutsu
 ~ Kore wa Gitjutsu shu desu <br>
-Here's my repository <small>
+ <small> Here's my repository

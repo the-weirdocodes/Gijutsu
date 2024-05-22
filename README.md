@@ -1,6 +1,4 @@
 # Gijutsu
-## ~ Kore wa Gitjutsu shu desu <br>
- Here's my repository on core java infusing some anime into the concepts 
- using eclipse IDE, fasten yourself to learn some jutsus in java to
- accomplish your missions. 
- ## Dattebayo !!!
+### ~ Kore wa Gitjutsu shu desu <br>
+This repository is your secret scroll for mastering core Java concepts with an anime flair. Prepare to unleash your inner shinobi as you explore the world of Java.
+#### Dattebayo !!!

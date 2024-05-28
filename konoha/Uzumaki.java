@@ -1,6 +1,6 @@
-package konoha;
+package konoha; 
 //let's print tailed beasts name ;)
-public class Uzumaki {
+public class Jinchuriki {
 	String name; //instance property
 	// Instance property can be allocated in any kind of method unless it is static.
 	
@@ -12,12 +12,12 @@ public class Uzumaki {
 	
 	public static void KiraBee() //static method
 	{
-		System.out.println("8 tailed Octopus-Gyuki"); 
+		System.out.println("8 tailed Octopus-Gyuki");
 	}
 	
 	public static void main(String args[]) //main method
 	{
-		Uzumaki u=new Uzumaki(); //calling the class with summoning an object (Here object is letter 'u' for Class Uzumaki)
+		Jinchuriki u=new Jinchuriki(); //calling the class with summoning an object (Here object is letter 'u' for Class Jinchuriki)
 		u.Naruto(); //calling the non-static method
 		Uzumaki.KiraBee(); //calling the static method
 	}

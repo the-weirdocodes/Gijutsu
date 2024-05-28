@@ -1,4 +1,4 @@
-package konoha; 
+package shinobi; 
 //let's print tailed beasts name ;)
 public class Jinchuriki {
 	String name; //instance property

@@ -42,4 +42,6 @@ into them. Can be used by any other behavior too.
  This method is like Ichiraku Ramen for Naruto, he for sure visits Ichiraku Ramen everytime and enjoys Ramen there.
  Likewise each and every class, behavior and property comes to the main method for execution. It all starts with 
  calling the class name first and creating an object. Object works like a surname. To call the non static methods 
- inside the class, we use the object, (object.method name). For static methods it's not necessary (Class name.method name).*/
+ inside the class, we use the object, (object.method name). For static methods it's not necessary (Class name.method name).
+ 
+ #Let's see about some useful pre defined and user defined classes in the next session.*/

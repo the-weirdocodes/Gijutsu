@@ -10,7 +10,7 @@ public class Jinchuriki {
 		System.out.println(name); //print statement
 	}
 	
-	public static void KiraBee() //static method
+	public static void KillerBee() //static method
 	{
 		System.out.println("8 tailed Octopus-Gyuki");
 	}
@@ -19,7 +19,7 @@ public class Jinchuriki {
 	{
 		Jinchuriki u=new Jinchuriki(); //calling the class with summoning an object (Here object is letter 'u' for Class Jinchuriki)
 		u.Naruto(); //calling the non-static method
-		Uzumaki.KiraBee(); //calling the static method
+		Uzumaki.KillerBee(); //calling the static method
 	}
 }
 /*Let's dive into jutsu of Class,

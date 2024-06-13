@@ -19,7 +19,7 @@ public class Jinchuriki {
 	{
 		Jinchuriki u=new Jinchuriki(); //calling the class with summoning an object (Here object is letter 'u' for Class Jinchuriki)
 		u.Naruto(); //calling the non-static method
-		Uzumaki.KillerBee(); //calling the static method
+		Jinchuriki.KillerBee(); //calling the static method
 	}
 }
 /*Let's dive into jutsu of Class,
